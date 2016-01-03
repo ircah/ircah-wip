@@ -17,6 +17,7 @@
   },
   "author": "IRC Cards Against Humanity Developers",
   "devDependencies": {
+    "eslint-config-standard": "^4.4.0",
     "standard": "^5.4.1"
   }
 }
