@@ -1,0 +1,22 @@
+{
+  "name": "cah-js",
+  "version": "0.1.0",
+  "description": "cah-js done the way it was originally intended",
+  "main": "index.js",
+  "keywords": [
+    "coffea",
+    "irc",
+    "cards-against-humanity",
+    "fun",
+    "games",
+    "es6"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ircah/ircah-wip"
+  },
+  "author": "IRC Cards Against Humanity Developers",
+  "devDependencies": {
+    "standard": "^5.4.1"
+  }
+}
